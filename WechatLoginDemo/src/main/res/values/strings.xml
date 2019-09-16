@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Wechat</string>
+    <string name="login_button">Login</string>
+    <string name="login_error">Login Error</string>
+    <string name="hint_username">QQ/Wechat/Email</string>
+    <string name="hint_password">Password</string>
+</resources>
